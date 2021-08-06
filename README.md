@@ -1,7 +1,7 @@
 # Welcome!
-👩‍💻  Development student.
-From São Paulo, 🇧🇷.
-in love with code  💕
+- 👩‍💻  Development student.
+- From São Paulo, 🇧🇷.
+- in love with code  💕
 
 <div>
   <a href="https://github.com/GabrielaAssis96">
